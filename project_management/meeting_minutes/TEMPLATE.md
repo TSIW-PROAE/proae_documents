@@ -1,17 +1,27 @@
-# Ata de Reunião - 2025-03-25
+# Ata de Reunião - 25/03/2025
 
-**Participantes:**
-- 
+**Data**: 25 de março de 2025
+**Duração**: 1 hora
+**Participantes**:
+
+---
 
 **Pauta:**
-1. 
-2. 
-3. 
 
-**Decisões:**
-- 
+1.
+2.
+3.
 
-**Ações:**
-| Responsável | Tarefa | Prazo |
-|-------------|--------|-------|
-|             |        |       |
+## 📌 **Resumo das Discussões**
+
+| Tema da Discussão | Desdobramentos | Decisões |
+| ----------------- | -------------- | -------- |
+|                   |                |          |
+
+## 🔍 **Detalhes Complementares**
+
+### **Próximos Passos**
+
+### ⚠️ **Observações**
+
+**Próxima Reunião**: 01/03/2025 (às 20h)
