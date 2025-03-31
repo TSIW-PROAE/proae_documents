@@ -8,6 +8,6 @@ Estrutura:
 - Infraestrutura
   - Docker
   - Ospedagem
-    - TODO
+    - Vercel
 - Documentação de código
   - TODO
