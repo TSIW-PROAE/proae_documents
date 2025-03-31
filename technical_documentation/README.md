@@ -10,4 +10,9 @@ Estrutura:
   - Ospedagem
     - Vercel
 - Documentação de código
-  - TODO
+  - Prototipação
+    - Figma
+  - Requisitos
+    - Notion
+  - Controles de Tarefas
+    - Notion
