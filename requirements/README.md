@@ -14,3 +14,6 @@
 - **Segurança e Sigilo de Dados:** O sistema deve garantir a segurança e o sigilo dos dados sensíveis dos estudantes, com acesso restrito a pessoas autorizadas e histórico de observações com níveis de sigilo.
 - **Integração com Outros Sistemas:** O sistema deve ser capaz de integrar com outros sistemas da faculdade, como o sistema de matrícula.
 - **Manutenção de Histórico:** O sistema precisa manter o histórico dos dados pelo período de tempo legalmente exigido, mesmo após o encerramento dos processos seletivos.
+
+
+link de google docs: https://docs.google.com/document/d/1uLvjEZMkSJYbLnxIYwAVjrgWAUdJtcWd4bZKL4asC74/edit?usp=sharing
