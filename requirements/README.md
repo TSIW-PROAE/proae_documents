@@ -1,4 +1,4 @@
-## :anchor: Requisitos Funcionais
+## :robot: Requisitos Funcionais
 
 - **Centralização de Informações:** O sistema deve centralizar todos os documentos, informações de estudantes e seus núcleos familiares, histórico de processos e pareceres.
 - **Gestão de Processos Seletivos:** O sistema deve permitir a gestão completa dos processos seletivos, desde a inscrição até a divulgação do resultado final, incluindo:
