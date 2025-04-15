@@ -24,4 +24,4 @@
 - **Disponibilidade:** Sistema acessível 24/7.
 - **Manutenibilidade:** Código limpo, documentado e modular para facilitar a manutenção.
 
-**[Documento de requisitos detalhado](https://docs.google.com/document/d/1uLvjEZMkSJYbLnxIYwAVjrgWAUdJtcWd4bZKL4asC74/edit?usp=sharing)**
+**[Documento de requisitos detalhado](https://docs.google.com/document/d/1ukKoL5jGEzbqXMjclB8csSc-l_RDvt6awRdbPc3vFQM/edit?usp=sharing)**
