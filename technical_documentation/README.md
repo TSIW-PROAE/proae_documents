@@ -1,16 +1,20 @@
 # Documentação Técnica
 Estrutura:
-- Arquitetura do sistema
+- [Arquitetura do sistema](https://drive.google.com/file/d/17_Cs1PVxO-co8dlOIAVlsU-hEHdwWv_s/view?usp=sharing)
   - Front
     - React
   - Back
     - NodeJs + Nest
+    - TypeORM
+    - Clerk
   - Banco
     - PostgreSQL
+    - MINIO
+    - [DER](https://drive.google.com/file/d/1PrJjr02jF9N796CJynYci289I1b2VqVf/view?usp=sharing)
 - Infraestrutura
   - Docker
   - Ospedagem
-    - Vercel
+    - Magalu cloud
 - Documentação de código
   - [Prototipação (Figma)](https://www.figma.com/design/40hh19XODV4sDGmFYP2X33/PROAE-PROJECT?m=auto&t=GCeBpKKnjMlg3FL6-1)
   - [Requisitos](https://docs.google.com/document/d/1ukKoL5jGEzbqXMjclB8csSc-l_RDvt6awRdbPc3vFQM/edit?usp=sharing)
